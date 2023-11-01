@@ -10,3 +10,6 @@ This tutorial will help us understand what DNS is and how it can help us trouble
 
 - Windows Server 2022
 - Windows 10 (21H2)
+<h2> Deployment and Configuration Steps</h2>
+<p></p>
+- Item 
