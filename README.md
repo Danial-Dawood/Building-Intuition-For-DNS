@@ -1,3 +1,7 @@
+<p align="center">
+![DNS](https://github.com/Danial-Dawood/Building-Intuition-For-DNS/assets/149525309/9ce3559f-c36e-4b59-8dab-d2d5f9e609d7)
+
+</p>
 <h1>Building Intuition For DNS</h1>
 This tutorial will help us understand what DNS is and how it can help us troubleshoot problems in the real world.<br />
 <h2>Environments and Technologies Used</h2>
