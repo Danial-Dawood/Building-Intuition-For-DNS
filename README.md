@@ -1,5 +1,5 @@
 <p align="center">
-![DNS](https://github.com/Danial-Dawood/Building-Intuition-For-DNS/assets/149525309/9ce3559f-c36e-4b59-8dab-d2d5f9e609d7)
+<img width="350" alt="Screen Shot 2023-11-01 at 7 03 07 PM" src="https://github.com/Danial-Dawood/Building-Intuition-For-DNS/assets/149525309/aac076f4-d9c9-4606-910d-0de55c2f639b">
 
 </p>
 <h1>Building Intuition For DNS</h1>
